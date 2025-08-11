@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	metrics "github.com/izusam/go-ml/pkg"
+	"github.com/izusam/go-ml/metrics"
 )
 
 func main() {
